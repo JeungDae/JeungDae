@@ -1,6 +1,8 @@
 언제나 발전하고 싶은 노력파.  
 이것저것 메모하기.
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjd1983)](https://solved.ac/jjd1983)
 <!--
 **JeungDae/JeungDae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
