@@ -2,7 +2,7 @@
 이것저것 메모하기.
 
 
-Solved Profile
+Solved Profile.  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjd1983)](https://solved.ac/jjd1983) 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeungDae&show_icons=true&theme=radical) -->
 
