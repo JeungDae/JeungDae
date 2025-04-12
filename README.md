@@ -1,10 +1,4 @@
-이것저것 메모하기.
-
-
-Solved Profile.  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjd1983)](https://solved.ac/jjd1983) 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeungDae&show_icons=true&theme=radical) -->
-
+개발자로 살아남기 위해서 고군분투 하는 기록
 <!--
 **JeungDae/JeungDae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
